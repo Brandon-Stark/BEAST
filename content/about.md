@@ -10,11 +10,12 @@ slug: Contact us
 ---
 
 >
-这是**BEAST**中文社区网站。
-This is a Chinese Community website for **BEAST**.
+<font color = blue size = 5 face = "华文楷体">这是**BEAST**中文社区网站。</font>    
+<font color = green size = 5 face = "华文楷体">This is a Chinese Community website for **BEAST**.</font>
 
-<font color = green size = 5 face = "华文楷体">如果您有任何关于**BEAST**相关的问题，欢迎您到我们的**BEAST**生物软件交流群（QQ: 239229850）与我们一起探讨。</font>
-If you have any questions about ,welcome to join us in our biological software communication group (QQ: 239229850).
+>
+<font color = blue size = 5 face = "华文楷体">如果您有任何关于**BEAST**相关的问题，欢迎您到我们的**BEAST**生物软件交流群（QQ: 239229850）与我们一起探讨。</font>    
+<font color = green size = 5>If you have any questions about **BEAST**, welcome to join us in our **BEAST** biological software communication group (QQ: 239229850).</font>
 
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
@@ -26,10 +27,9 @@ If you have any questions about ,welcome to join us in our biological software c
 
 ### email: 376063966@qq.com
 
-### <font color = Aqua size = 5>*Research Interests*:</font>
+### <font color = Blue size = 5>*Research Interests*:</font>
 
->
-* I am broadly interested in bioinformatics, with particular focus on the influenza virus.
+#### **I am broadly interested in bioinformatics, with particular focus on the influenza virus.**
 
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
@@ -42,13 +42,13 @@ If you have any questions about ,welcome to join us in our biological software c
 ### email: 2049968646@qq.com
 
 
-### <font color = Aqua size = 5>*Research Interests*:</font>
+### <font color = Blue size = 5>*Research Interests*:</font>
 
 >
-* better understanding the evolution of emerging human viral pathogens, in particular, fast evolving RNA viruses that have been sampled through time; 
-* Inferring evolutionary and population dynamic processes from molecular sequence data;
-* Models of molecular evolution for phylogenetic reconstruction using maximum likelihood and Bayesian inference.
-* I am also interested in empirical and theoretical approaches focusing on the use of experimental evolutionary, population genetic, phylogenetic, and computational methods.</font>
+* **better understanding the evolution of emerging human viral pathogens, in particular, fast evolving RNA viruses that have been sampled through time;** 
+* **Inferring evolutionary and population dynamic processes from molecular sequence data;**
+* **Models of molecular evolution for phylogenetic reconstruction using maximum likelihood and Bayesian inference.**
+* **I am also interested in empirical and theoretical approaches focusing on the use of experimental evolutionary, population genetic, phylogenetic, and computational methods.**
 
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
