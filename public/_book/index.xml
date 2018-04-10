@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_books on A Hugo website</title>
+    <link>/_book/</link>
+    <description>Recent content in _books on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/_book/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/_book/_main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/_book/_main/</guid>
+      <description>联系我们0.1 ———————————————————————————————–0.1.1 Jon Snow0.1.2 email: 376063966@qq.com0.1.3 Research Interests:0.2 ———————————————————————————————–0.2.1 Brandon Stark0.2.2 email: 2049968646@qq.com0.2.3 Research Interests:0.3 ———————————————————————————————–联系我们联系我们Brandon Stark and Jon Snow2018-04-10这是BEAST中文社区网站。
+This is a Chinese Community website for BEAST.
+如果您有任何关于BEAST相关的问题，欢迎您到我们的BEAST生物软件交流群（QQ: 239229850）与我们一起探讨。
+If you have any questions about BEAST, welcome to join us in our BEAST biological software communication group (QQ: 239229850).</description>
+    </item>
+    
+  </channel>
+</rss>
