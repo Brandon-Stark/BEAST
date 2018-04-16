@@ -25,18 +25,6 @@ If you have any questions about BEAST, welcome to join us in our BEAST biologica
     </item>
     
     <item>
-      <title>PartitionFinder2的一般使用方法（中文版）</title>
-      <link>/2018/04/09/partitionfinder2%E7%9A%84%E4%B8%80%E8%88%AC%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E4%B8%AD%E6%96%87%E7%89%88/</link>
-      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/04/09/partitionfinder2%E7%9A%84%E4%B8%80%E8%88%AC%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E4%B8%AD%E6%96%87%E7%89%88/</guid>
-      <description>———————————————————————————————–Rob Lanfear———————————————————————————————–引言PartitionFinder2是目前对大中型数据集（数据类型包括：核苷酸、氨基酸和形态数据）同时检测最合适的分区方案和每个分区方案所对应的最优进化模型的最理想的程序（此观点来自布兰登·史塔克，如引用请注明出处）。PartitionFinder2所推演的最优进化模型结果与使用 jModelTest2（检测核苷酸数据）和ProTest3（检测氨基酸数据）所推演的最优进化模型结果是比较接近的（此观点来自布兰登·史塔克，如引用请注明出处）。简介这次实战的目的只是介绍 PartitionFinder2最重要的功能。通过这次实战预期可以达到快速和高效的掌握 PartitionFinder2的一般使用方法。态度PartitionFinder2的作者 Rob Lanfear在PartitionFinder2 2.1.x手册（18页）里面提到：我目前最喜欢的用于进化模型选择的度量是AICc。一般来说，用户不应该用AIC，因为AICc与AIC相比始终是最好的。然而，AIC包含在partitionfinder里面大多是因为历史原因。
-PartitionFinder2的作者 Rob Lanfear在PartitionFinder2 2.1.x手册（21页）里面还提到：一般来说，我不建议在任何情况下使用search = hcluster;这种算法。最好用rcluster这种算法并将--rcluster-max的参数设置为一些非常低的数值（例如，设置--rcluster-max为10）来代替。hcluster这种算法几乎与将rcluster算法的--rcluster-max参数设置为1是相同的。用户可以使用--weights命令行选项来控制hcluster算法。hcluster算法仍然放在PartitionFinder2里面纯粹是为了证明hcluster算法是不可重复使用的。
-安装使用 Anaconda或者其他程序安装Python
-PartitionFinder2需要 Python 2.</description>
-    </item>
-    
-    <item>
       <title>Hello R Markdown</title>
       <link>/2015/07/23/hello-r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
