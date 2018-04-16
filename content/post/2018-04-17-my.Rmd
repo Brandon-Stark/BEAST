@@ -1,0 +1,11 @@
+---
+title: my
+author: my
+date: '2018-04-17'
+slug: my
+categories:
+  - R
+tags:
+  - R Markdown
+---
+this
